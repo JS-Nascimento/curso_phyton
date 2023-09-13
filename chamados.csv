@@ -1,0 +1,11 @@
+ID,Descrição,Prioridade,Usuário_ID,Departamento_ID,Situação,Data de Abertura
+1,Problema com e-mail,Baixa,5,4,Aberto,2023-03-15
+2,Impressora não funciona,Normal,9,2,Em andamento,2023-03-10
+3,Falha na rede,Alta,12,4,Em andamento,2023-03-05
+4,Software não inicia,Baixa,13,1,Fechado,2023-02-28
+5,Acesso negado ao servidor,Normal,2,4,Aberto,2023-03-12
+6,Erro no banco de dados,Alta,6,1,Aberto,2023-03-20
+7,Sistema lento,Baixa,11,1,Em andamento,2023-03-08
+8,Não consegue fazer login,Normal,15,3,Aberto,2023-03-02
+9,Problema no backup,Alta,13,3,Fechado,2023-02-25
+10,Falha na conexão VPN,Normal,4,4,Em andamento,2023-03-18

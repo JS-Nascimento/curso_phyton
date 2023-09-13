@@ -1,0 +1,21 @@
+ID,Nome do Ativo,Departamento_ID,Ativo
+1,Scanner 1,4,Não
+2,Mouse 2,2,Sim
+3,SSD 3,4,Sim
+4,Laptop 4,2,Não
+5,Memória 5,1,Não
+6,Servidor 6,3,Sim
+7,Projetor 7,2,Sim
+8,Laptop 8,2,Sim
+9,HD 9,5,Não
+10,Switch 10,4,Não
+11,Switch 11,5,Sim
+12,Monitor 12,5,Sim
+13,Servidor 13,1,Não
+14,Impressora 14,3,Sim
+15,Projetor 15,4,Sim
+16,Servidor 16,3,Sim
+17,SSD 17,3,Sim
+18,Switch 18,3,Sim
+19,Laptop 19,5,Sim
+20,HD 20,3,Não
